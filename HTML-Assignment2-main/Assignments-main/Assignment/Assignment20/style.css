@@ -1,0 +1,8 @@
+.shifted {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db; 
+    position: absolute;
+    left: 300px;
+    top: 200px;
+  }

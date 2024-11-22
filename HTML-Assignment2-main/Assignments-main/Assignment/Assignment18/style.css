@@ -1,0 +1,15 @@
+
+.p1 {
+    background-color: rgb(255, 200, 100); /* RGB format */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .p2 {
+    background-color: #FF6347; /* Hexadecimal format (6-digit) */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .p3 {
+    background-color: #F53; /* Hexadecimal format (3-digit) */
+    padding: 20px;
+  }

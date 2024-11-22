@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none; /* Removes default list bullets */
+    padding: 0;
+  }
+  li:first-child, li:last-child {
+    background-color: grey;
+    color: white; /* Optional: make text color white for better contrast */
+    padding: 10px;
+  }
+  li:hover {
+    background-color: lightgrey;
+  }

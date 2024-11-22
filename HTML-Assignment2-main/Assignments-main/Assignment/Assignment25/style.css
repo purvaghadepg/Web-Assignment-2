@@ -1,0 +1,4 @@
+p::first-line {
+    background-color: grey; /* Apply grey background to the first line */
+    font-weight: bold; /* Optional: make the first line bold */
+  }
